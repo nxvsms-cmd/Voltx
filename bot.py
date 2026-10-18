@@ -22,8 +22,8 @@ except ImportError:
 
 # ==================== CONFIG SECTION ====================
 
-BOT_TOKEN = "8965149773:AAEHqU3HH8j3hdQDeXOcFc02ckZgsY2peno"
-API_KEY = "MLIFPUC53X9"  #  এপিআই কী
+BOT_TOKEN = "8994153110:AAFyc_ZzOK5FhG7Yl-2DQ50QqUjLU-VaG-8"
+API_KEY = "M9LGX0CVL2M"  #  এপিআই কী
 BASE_URL = "https://api.2oo9.cloud/MXS47FLFX0U/tnevs/@public/api"           #  এপিআই ডোমেন
 USER_DATA_FILE = "users.json"
 PAID_SMS_FILE = "paid_sms.json"
