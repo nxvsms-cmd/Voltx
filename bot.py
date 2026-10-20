@@ -49,9 +49,9 @@ def load_settings():
         default = {
             "max_numbers_per_user": 10000,  # Max Numbers Per Batch
             "welcome_message": WELCOME_MESSAGE,
-            "otp_group_url": "https://t.me/eranverseotpgroup",
-            "channel_url": "https://t.me/earnverseadmin",
-            "support_username": "@hinmrtin",
+            "otp_group_url": "https://t.me/+Ty31Ons0h3oxMzZl",
+            "channel_url": "https://t.me/+8eKm7sqBo-tlNDQ9",
+            "support_username": "@antarsaha23",
             "maintenance_mode": False,
             "min_withdraw": 0.5,
             "max_withdraw": 100.0,
@@ -59,7 +59,7 @@ def load_settings():
             "base_url": BASE_URL,
             "cooldown_time": 1.0,          # নম্বর চেঞ্জ লিমিট
             "force_join_enabled": False,   # ফোর্স জয়েন অন/অফ সিস্টেম
-            "force_join_channels": ["@eranverseotpgroup"], # ফোর্স জয়েন চ্যানেলসমূহ
+            "force_join_channels": ["@nhbdofficial"], # ফোর্স জয়েন চ্যানেলসমূহ
             "join_alert_enabled": True,     # ম্যানুয়াল এডমিন জয়েন নোটিফিকেশন
             "otp_reward": 0.0020,          # প্রতি ওটিপিতে বোনাস
             "refer_bonus": 0.050,          # রেফারেল বোনাস
@@ -92,9 +92,9 @@ def load_settings():
         return {
             "max_numbers_per_user": 10000,
             "welcome_message": WELCOME_MESSAGE,
-            "otp_group_url": "https://t.me/eranverseotpgroup",
-            "channel_url": "https://t.me/earnverseadmin",
-            "support_username": "@hinmrtin",
+            "otp_group_url": "https://t.me/+Ty31Ons0h3oxMzZl",
+            "channel_url": "https://t.me/+8eKm7sqBo-tlNDQ9",
+            "support_username": "@antarsaha23",
             "maintenance_mode": False,
             "min_withdraw": 0.5,
             "max_withdraw": 100.0,
@@ -102,7 +102,7 @@ def load_settings():
             "base_url": BASE_URL,
             "cooldown_time": 1.0,
             "force_join_enabled": False,
-            "force_join_channels": ["https://t.me/eranverseotpgroup"],
+            "force_join_channels": ["https://t.me/+8eKm7sqBo-tlNDQ9"],
             "join_alert_enabled": True,
             "otp_reward": 0.0010,
             "refer_bonus": 0.0040,
@@ -156,9 +156,9 @@ def build_force_join_keyboard():
     return InlineKeyboardMarkup(keyboard)
 
 # ==================== MULTIPLE ADMINS CONFIGURATION ====================
-ADMINS = [8050375567]  
+ADMINS = [8671743597]  
 
-OTP_GROUP_ID = -1003852527913
+OTP_GROUP_ID = -5183612483
 
 request_queue = asyncio.Queue() 
 MAX_WORKERS = 50000 
