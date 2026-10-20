@@ -22,7 +22,7 @@ except ImportError:
 
 # ==================== CONFIG SECTION ====================
 
-BOT_TOKEN = "8853819283:AAH3GjyuP60mV8lVAx-mhIiRNk9-JdmOY5U"
+BOT_TOKEN = "8629485430:AAFRYlzPPkGxY_tQI8AY5jO2OXmowDhh58Y"
 API_KEY = "M9LGX0CVL2M"  #  এপিআই কী
 BASE_URL = "https://api.2oo9.cloud/MXS47FLFX0U/tnevs/@public/api"           #  এপিআই ডোমেন
 USER_DATA_FILE = "users.json"
