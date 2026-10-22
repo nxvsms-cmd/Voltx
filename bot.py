@@ -156,7 +156,7 @@ def build_force_join_keyboard():
     return InlineKeyboardMarkup(keyboard)
 
 # ==================== MULTIPLE ADMINS CONFIGURATION ====================
-ADMINS = [8671743597]  
+ADMINS = [1849126202]  
 
 OTP_GROUP_ID = -5183612483
 
