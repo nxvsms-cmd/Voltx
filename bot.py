@@ -49,7 +49,7 @@ def load_settings():
         default = {
             "max_numbers_per_user": 10000,  # Max Numbers Per Batch
             "welcome_message": WELCOME_MESSAGE,
-            "otp_group_url": "https://t.me/+Ty31Ons0h3oxMzZl",
+            "otp_group_url": "https://t.me/+PQXwTEm3tnk2ZGNl",
             "channel_url": "https://t.me/+8eKm7sqBo-tlNDQ9",
             "support_username": "@antarsaha23",
             "maintenance_mode": False,
@@ -92,7 +92,7 @@ def load_settings():
         return {
             "max_numbers_per_user": 10000,
             "welcome_message": WELCOME_MESSAGE,
-            "otp_group_url": "https://t.me/+Ty31Ons0h3oxMzZl",
+            "otp_group_url": "https://t.me/+PQXwTEm3tnk2ZGNl",
             "channel_url": "https://t.me/+8eKm7sqBo-tlNDQ9",
             "support_username": "@antarsaha23",
             "maintenance_mode": False,
